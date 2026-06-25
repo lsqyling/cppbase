@@ -154,7 +154,9 @@
 | **poll** 🥇 中低并发之王 | 平均吞吐量全场最高 78,918 req/s | 中等并发（<500） |
 | **select** | 小并发表现尚可，2000+ 直接超时 | 简单场景、跨平台兼容 |
 
-> 可视化对比图：[doc/select_poll_epoll_Comparison.png](doc/select_poll_epoll_Comparison.png)
+> 可视化对比图：
+> 
+> <img src="doc/select_poll_epoll_Comparison.png" alt="性能对比图" width="800" height="500">
 
 ---
 
