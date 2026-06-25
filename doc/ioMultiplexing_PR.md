@@ -41,6 +41,9 @@
 | 2000 | 超时 | 73,153 | 78,309 |
 | 5000 | 超时 | 失败 | **70,472** 🏆 |
 
+## 性能对比图
+[select_poll_epoll_Comparison](./select_poll_epoll_Comparison.png)
+
 ## 关键发现
 
 ### 1. select：波动大，高并发不可用
