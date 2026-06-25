@@ -42,7 +42,7 @@
 | 5000 | 超时 | 失败 | **70,472** 🏆 |
 
 ## 性能对比图
-[select_poll_epoll_Comparison](./select_poll_epoll_Comparison.png)
+<img src="./select_poll_epoll_Comparison.png" alt="性能对比图" width="800" height="500">
 
 ## 关键发现
 
